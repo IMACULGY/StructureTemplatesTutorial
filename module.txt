@@ -1,0 +1,9 @@
+{
+    "id" : "StructureTemplatesTutorial",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "",
+    "displayName" : "StructureTemplatesTutorial",
+    "description" : "",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
